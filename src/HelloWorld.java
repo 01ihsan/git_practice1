@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("Run");
 
         //HAcı
+        //bi de böyle bi değişiklik yaptık diyelim.
     }
 }
