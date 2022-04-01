@@ -5,5 +5,6 @@ public class HelloWorld {
 
         //HAcı
         //bi de böyle bi değişiklik yaptık diyelim.
+        //burası da böyle kalsın.
     }
 }
